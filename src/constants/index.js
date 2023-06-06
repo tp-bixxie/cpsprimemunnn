@@ -3,7 +3,7 @@ import { Committee } from "../components";
 
 export const navLinks = [
   {
-    id: "/main/",
+    id: "/home/",
     title: "HOME",
   },
   {
@@ -19,7 +19,7 @@ export const navLinks = [
     title: "CONFERENCE",
   },
   {
-    id: "https://forms.gle/4g9h5tCm5nNq6Kgr7",
+    id: "https://docs.google.com/forms/d/e/1FAIpQLSc4C6Vvf6pO_mDU1BxHbmgPPuGNT03KuPIXKBv1M95cGIbpyA/viewform?usp=sf_link",
     title: "REGISTRATION",
   }
 ];
@@ -136,19 +136,19 @@ export const footerLinks = [
     links: [
       {
         name: "Secretary General",
-        link: "https://www.hoobank.com/content/",
+        link: "#",
       },
       {
         name: "Deupty Secretary General",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "#",
       },
       {
         name: "Faculty Advisors",
-        link: "https://www.hoobank.com/",
+        link: "#",
       },
       {
         name: "General Enquiry",
-        link: "https://www.hoobank.com/create/",
+        link: "#",
       },
       
     ],
@@ -158,19 +158,19 @@ export const footerLinks = [
     links: [
       {
         name: "About Us",
-        link: "https://www.hoobank.com/help-center/",
+        link: "/about/",
       },
       {
         name: "Committee",
-        link: "https://www.hoobank.com/partners/",
+        link: "/committee/",
       },
       {
         name: "Conference",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "/conference/",
       },
       {
         name: "Contact Us",
-        link: "https://www.hoobank.com/blog/",
+        link: "#",
       },
     ],
   },
@@ -179,11 +179,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Sponsors",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "#",
       },
       {
         name: "Become a Sponsor",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "#",
       },
     ],
   },
@@ -193,7 +193,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/cpsprime_mun/",
   },
   {
     id: "social-media-2",
