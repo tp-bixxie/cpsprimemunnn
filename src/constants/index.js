@@ -19,7 +19,7 @@ export const navLinks = [
     title: "CONFERENCE",
   },
   {
-    id: "https://docs.google.com/forms/d/e/1FAIpQLSc4C6Vvf6pO_mDU1BxHbmgPPuGNT03KuPIXKBv1M95cGIbpyA/viewform?usp=sf_link",
+    id: "#",
     title: "REGISTRATION",
   }
 ];

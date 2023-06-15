@@ -7,7 +7,7 @@ const Countdown = () => {
     const [minutes, setMinutes] = useState(0)
     const [secs, setSeconds] = useState(0)
 
-    const deadline = "July, 08, 2023"
+    const deadline = "July, 21, 2023"
 
     const getTime = () =>{
         const time = Date.parse(deadline)-Date.now()
